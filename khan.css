@@ -1,0 +1,78 @@
+body{
+    background-color: hsl(180, 50%, 50%);
+}
+
+h1{
+    background-color: rgb(233, 179, 179);
+        text-shadow: 4px,2px oklch(from color l c h);
+}
+
+h2{
+    background-color: aqua;
+    text-shadow: 4px,2px oklch(from color l c h);
+}
+
+h3{
+    background-color: beige;
+    text-shadow: 4px,2px oklch(from color l c h);
+
+}
+
+.yellow{
+    background-color: rgb(137, 166, 118);
+    padding: 20px;
+    margin:20px ;
+    color: rgb(76, 86, 86);
+}
+.green{
+    background-color: rgb(116, 183, 22);
+    padding:30px ;
+    margin: 30px;
+color: hotpink;
+}
+.red{
+    background-color: rgb(223, 123, 0);
+    padding:40px ;
+    margin:40px ;
+    color: rgb(21,31,41);
+}
+.orange{
+    background-color: rgb(51, 87, 39);
+    padding:40px ;
+    margin:40px ;
+    color: rgb(21,31,41);
+}
+.mian{
+    background-color: rgb(223, 123, 0);
+    padding:50px ;
+    margin:50px ;
+    
+}
+.LOL{
+    background-color: rgb(56, 189, 43);
+    width: 300;
+    margin: 20px;
+    font-style: oblique;
+    font-size: xx-large;
+    font-family: monospace;
+}
+
+.khan{
+    font-weight: 200px;
+    font: style 300px; ;
+    font-stretch:expanded ;
+    font-family: cursive;
+
+}
+.MAMOON{
+    font-family: monospace;
+    font-weight: 300px;
+    font: style 400; ;
+    font-stretch: expanded;
+}
+.lo{
+    font-family: fantasy;
+    /* font-weight: 400;
+    font: style 500; ;
+    font-stretch: expanded;  */
+}
